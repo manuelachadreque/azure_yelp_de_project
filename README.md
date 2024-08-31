@@ -1,1 +1,1 @@
-# azure_yelp_de_project
+# Yelp Data Engineering Project
